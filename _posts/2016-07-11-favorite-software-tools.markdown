@@ -49,11 +49,14 @@ I have created this tool a while back also, for those developers, testers and co
 ###[Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb):
 This is a great handy tool if you want to work some AJAX calls to server and you have them all in your local drive and don't want to start a server just that quick small test you want to perform. This plugin offers a very light server, reasonably configurable for you to start and server from just a local folder you have on your machine. 
 
-###[live-server](https://www.npmjs.com/package/live-server)
+###[live-server](https://www.npmjs.com/package/live-server):
 Similar to Web Server for Chrome, comes this really cool npm package for starting server on the terminal for any folder you have on your machine. However, now we are talking npm packages, you have to run npm install and have your folder as an npm package itself. 
 
-###[SourceTree](https://www.sourcetreeapp.com/)
+###[SourceTree](https://www.sourcetreeapp.com/):
 Here is a great GUI for all your GIT commits and where is your branch in the tree of versioning. 
+
+###[Hyperdev](https://hyperdev.com/):
+A fascinating tool that would let developers work on both backend and frontend code without the hassle of configuration. The tool is pretty straight forward, amazingly done and very convenient. What it is, is basically jsfiddle but would allow you to work on backend code as well, change your end-points and do your development keeping the configuration issues at bay. 
 
 ##Data
 ###[JSON Formatter](https://jsonformatter.curiousconcept.com/):
@@ -65,6 +68,9 @@ Wish I had known this tool much earlier in my development days. If you don't kno
 ##Security
 ###[1Password](https://1password.com/):
 With writing a new password with different criteria for each site you work on, this tool comes in as the most handy. I compared it to others and think it's reasonable in price and definitely worth it. You just need that tool that'll have all your password for each site stored for you and easily accessed and detected each time you reach that site. 
+
+###[Keka](http://www.kekaosx.com/en/):
+Archive your files, secure them with a password so that you can send them with peace of mind. You can contact your receiver afterwards to tell him the password so that he can make use of those files.
 
 ##Blogging and Sharing 
 ###[Stackedit ](https://stackedit.io/):
@@ -79,6 +85,15 @@ This is a chrome plugin that would shorten any URL of any page you are visiting 
 ###[Airdroid](https://www.airdroid.com/):
 You are meeting with your team who most of them work remotely and many times you just miss that whiteboard experience you have with your friends in office. Here is a great solution I have found that I could easily keep drowing on my iPad / Samsung Note device and those charts are all shared easily to others via sharing with my computer. 
 
+###[yED](https://www.yworks.com/products/yed):
+This graphic editor allows for sketching high quality diagrams for your presentations and documentations. 
+
+###[Lucidchart](https://www.lucidchart.com/):
+Another high quality diagramming tool, light and convinient. 
+
+###[Remotemouse](https://www.remotemouse.net/):
+You are giving a presentation and you want to have a remote control. No need for that extra device. You can do all this from your app along with your Mac. Excellent app. 
+
 ##Organization
 ###[Evernote](https://evernote.com/):
 Since day one, I found this cloud-based tool to be very fitting to my writing needs. Accessing your notes from any device hasn't easier. 
@@ -86,5 +101,5 @@ Since day one, I found this cloud-based tool to be very fitting to my writing ne
 ###[Todist](https://en.todoist.com/):
 Among all the todo tools I settled on this one. It has really cool features but I am sure there are many out there that are as good and improving and providing more features.
 
-###[Jira](https://www.atlassian.com/software/jira)
+###[Jira](https://www.atlassian.com/software/jira):
 For all those agile groups craving to use tool that's easy to setup and manage, here is the convenient one. 
